@@ -53,8 +53,8 @@ A Flutter application that provides real-time weather details based on the userâ
 
 ## Screenshots
 
-| Home Screen (Sunny) |
+| Home Screen (Cloudy) |
 |---------------------|
-| ![Sunny](screenshots/ss.png) |
+| <img src="Screenshots/ss.png" alt="Screenshot1" width="200"/> |
 
 
